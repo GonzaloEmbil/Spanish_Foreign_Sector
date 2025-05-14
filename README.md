@@ -1,12 +1,6 @@
 # Analysis of the Spanish foreign sector between 1940 and 1959
 
-En este repositorio se encuentran scripts y datasets que nos permiten analizar diferentes aspectos de la industria del aguacate en México, como su producción y exportación.
-
-Se utilizaron distintas bases de datos abiertos:
-
-* SIAP: Contiene información de la producción anual de diversos cultivos. (http://infosiap.siap.gob.mx/gobmx/datosAbiertos_a.php)
-
-* INEGI (BCMM): Contiene información anual detallada de las exportaciones de México. (https://www.inegi.org.mx/programas/comext/#datos_abiertos)
+In this repository you will find scripts and datasets that allow us to analyze different aspects of Spanish foreign sector between 1940 and 1959. This work is a small part of my bachelor thesis "Analísis de las licencias de importación en la Comunidad de Madrid entre 1947 and 1959" that you can find on
 
 
 ## GDP
