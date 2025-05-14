@@ -40,11 +40,11 @@ El anterior gráfico se le conoce como un mapa binario, donde solo se muestran l
 
 El precio del aguacate al consumidor final y el precio que recibe el productor no es el mismo.
 
-![Precio medio rural](./imgs/precio_medio.png)
+![Main Origins](Visuals/Main_Origins_Spanish_Imports.png)
 
 Los consumidores suelen pagar el doble (o aveces el triple) de lo que reciben los productores por cada kilgramo de aguacate.
 
-![Precio](./imgs/precio_mensual.png)
+![Main Destinations](Visuals/Main_Destinations_Spanish_Exports.png)
 
 
 ## Conclusión
