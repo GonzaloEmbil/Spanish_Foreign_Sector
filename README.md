@@ -10,18 +10,12 @@ Se utilizaron distintas bases de datos abiertos:
 
 * Banxico: Contiene información mensual simple de las exportaciones de México. (https://www.banxico.org.mx/SieInternet/consultarDirectorioInternetAction.do?sector=1&accion=consultarCuadro&idCuadro=CE37&locale=es)
 
-* INEGI (PIB): Contiene información detallada trimestral del PIB de México. (https://www.inegi.org.mx/temas/pib/#tabulados)
 
-* PROFECO: Contiene los precios al consumidor desagregados por estado y comercio. (https://datos.profeco.gob.mx/datos_abiertos/qqp.php)
-
-De todas estas bases de datos solo se extrajo la información relevante al aguacate.
-
-## Valor de la producción
+## PIB
 
 El aguacate es considerao por muchos como "el oro vede de México". En la siguiente gráfica podremos conocer su valor respecto al Producto Interno Bruto.
 
-![PIB](.Visuals/PIB of Spain, United States, Great Britain and France (1930-1975).png)
- <img src="Visuals/PIB of Spain, United States, Great Britain and France (1930-1975).png" alt="lighthouse report with 100% scores">
+<img src="Visuals/PIB of Spain, United States, Great Britain and France (1930-1975).png" alt="PIB">
 
 Podemos notar que con el paso de los años, el valor del aguacate ha aumentado.
 
@@ -30,46 +24,16 @@ Un detalle importante de recordar es que el PIB está conformado por cientros de
 Veamos la misma gráfica pero ahora comparando solamente con la agricultura.
 
 
-![Agricola](./imgs/pib_3.png)
-
-En 2019, 9 de cada 100 pesos que se produjeron de agricultura en México fueron exclusivamente de aguacate. Esto deja al resto del 91% para las miles de variedades de frutas, verduras, flores, forrrajes, semillas, granos, etc.
-
-## Origen de la producción
+## Exports and Imports as % of PIB
 
 Se dice que Michoacán es donde más se produce aguacate, y es verdad.
 
-![Estatal 2023](./imgs/entidades_2023.png)
+<img src="Visuals/Exports and Imports as % of PIB.png" alt="% PIB">
 
 Durante el 2023, el estado de Michoacán fue responsable del 75.76% de toda la producción de aguacate en el país, lo que equivale a 3 de cada 4 aguacates.
 
-Si crees que este porcentaje es alto, espera a ver el mapa del 2004.
 
-![Estatal 2004](./imgs/entidades_2004.png)
-
-En 2004, Michoacán fue responsable del 87.51% de la producción de aguacate en el país.
-
-Al comparar ambos mapas, se puede observar que otras entidades también han entrado en esta lucrativa industria.
-
-![Municipal 2023](./imgs/municipios_2023.png)
-
-  >**Nota:** Para los mapas anteriores he utilizado una escala logarítmica para poder apreciar mejor la distribcuón.
-
- Los 10 municipios que más produjeron aguacate en 2023 fueron exclusivamente de Michoacán:
-
- | Municipio |   Toneldas | % Nacional |
-|:------|--------------------:|-------:|
-| Tacámbaro |          311,142.80 |  10.46 |
-| Tancítaro |          303,620.00 |  10.21 |
-| Salvador Escalante |          249,975.00 |   8.41 |
-| Ario |          239,965.54 |   8.07 |
-| Uruapan |          219,011.00 |   7.37 |
-| Peribán |          158,513.00 |   5.33 |
-| Nuevo Parangaricutiro |           94,582.00 |   3.18 |
-| Los Reyes |           79,173.13 |   2.66 |
-| Turicato |           72,442.90 |   2.44 |
-| Tingüindín |           67,795.70 |   2.28 |
-
-## Exportaciones
+## Structure
 
 De acuerdo a las cifras del INEGI, durante el 2023 se exportaron 1.3 millones de toneladas de aguacate mexicano a 35 países y territorios.
 
@@ -101,7 +65,7 @@ A principios del siglo, menos del 20% del aguacate que se producía en México s
 
 Esto ha cambiado gradualmente, al punto que en ocasiones la mitad del aguacate producido ya es exportado.
 
-## Precio del aguacate
+## Origins and Destinations
 
 El precio del aguacate al consumidor final y el precio que recibe el productor no es el mismo.
 
