@@ -43,8 +43,3 @@ El precio del aguacate al consumidor final y el precio que recibe el productor n
 Los consumidores suelen pagar el doble (o aveces el triple) de lo que reciben los productores por cada kilgramo de aguacate.
 
 ![Main Destinations](Visuals/Main_Destinations_Spanish_Exports.png)
-
-
-## Conclusión
-
-En este proyecto traté de analizar la mayor cantidad de aspectos posibles con la información libremente disponible.
