@@ -28,7 +28,7 @@ Veamos la misma gráfica pero ahora comparando solamente con la agricultura.
 
 Se dice que Michoacán es donde más se produce aguacate, y es verdad.
 
-![%PIB](Notebooks/Exports_Imports_as_%_of_PIB.ipynb)
+![%PIB](Visuals/Exports_Imports_as_%_of_PIB.png)
 
 Durante el 2023, el estado de Michoacán fue responsable del 75.76% de toda la producción de aguacate en el país, lo que equivale a 3 de cada 4 aguacates.
 
