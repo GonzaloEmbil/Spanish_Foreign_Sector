@@ -21,6 +21,7 @@ De todas estas bases de datos solo se extrajo la información relevante al aguac
 El aguacate es considerao por muchos como "el oro vede de México". En la siguiente gráfica podremos conocer su valor respecto al Producto Interno Bruto.
 
 ![PIB](.Visuals/PIB of Spain, United States, Great Britain and France (1930-1975).png)
+ <img src="Visuals/PIB of Spain, United States, Great Britain and France (1930-1975).png" alt="lighthouse report with 100% scores">
 
 Podemos notar que con el paso de los años, el valor del aguacate ha aumentado.
 
