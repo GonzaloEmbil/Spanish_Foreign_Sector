@@ -9,18 +9,18 @@ Se utilizaron distintas bases de datos abiertos:
 * INEGI (BCMM): Contiene información anual detallada de las exportaciones de México. (https://www.inegi.org.mx/programas/comext/#datos_abiertos)
 
 
-## PIB
+## GDP
 
 El aguacate es considerao por muchos como "el oro vede de México". En la siguiente gráfica podremos conocer su valor respecto al Producto Interno Bruto.
 
-![PIB](Visuals/PIB_Spain_UnitedStates_GreatBritain_France.png)
+![PIB](Visuals/GDP_Spain_UnitedStates_GreatBritain_France.png)
 
 
-## Exports and Imports as % of PIB
+## Exports and Imports as % of GDP
 
 Se dice que Michoacán es donde más se produce aguacate, y es verdad.
 
-![%PIB](Visuals/Exports_Imports_PIB.png)
+![%PIB](Visuals/Exports_Imports_GDP.png)
 
 
 ## Structure
