@@ -35,8 +35,6 @@ El anterior gráfico se le conoce como un mapa binario, donde solo se muestran l
 
 ![Exports Structure](Visuals/Exports_Structure.png)
 
-En 2023, Estados Unidos importó el 80% de todos los aguacates que México exportó.
-
 
 ## Origins and Destinations
 
