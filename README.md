@@ -37,7 +37,7 @@ Durante el 2023, el estado de Michoacán fue responsable del 75.76% de toda la p
 
 De acuerdo a las cifras del INEGI, durante el 2023 se exportaron 1.3 millones de toneladas de aguacate mexicano a 35 países y territorios.
 
-![Exportaciones 2023](./Visuals/ExportsandImportsas%ofPIB.png)
+![Exportaciones 2023](.Visuals/PIB_Spain_UnitedStates_GreatBritain_France.png)
 
 El anterior gráfico se le conoce como un mapa binario, donde solo se muestran los países que recibieron aguacate, independientemente de la cantidad.
 
